@@ -1,0 +1,14 @@
+File 1
+
+New File Created in local
+
+New File Created in local --2
+
+edited in Remote --1
+
+Edited in Local --3
+
+Edited in Remote  --2
+
+adding to a branch-1
+
